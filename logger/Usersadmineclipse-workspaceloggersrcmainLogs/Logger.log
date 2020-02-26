@@ -1,0 +1,20 @@
+2020-02-26 14:04:01 DEBUG App:18 - Enter Your Option:
+1.Calculate Interest
+2.Estimate House Construction Cost
+2020-02-26 14:04:13 DEBUG App:25 - Enter Principle Amount : 
+2020-02-26 14:04:15 DEBUG App:27 - Enter Rate Of Interest : 
+2020-02-26 14:04:16 DEBUG App:29 - Enter Time Taken : 
+2020-02-26 14:04:17 DEBUG App:32 - Enter your type:
+1 Simple Interest
+2 Compound Interest
+2020-02-26 14:04:19 DEBUG App:41 - COMPOUND INTEREST : 108.0INR
+2020-02-26 14:06:51 DEBUG App:18 - Enter Your Option:
+1.Calculate Interest
+2.Estimate House Construction Cost
+2020-02-26 14:06:56 DEBUG App:25 - Enter Principle Amount : 
+2020-02-26 14:06:57 DEBUG App:27 - Enter Rate Of Interest : 
+2020-02-26 14:06:58 DEBUG App:29 - Enter Time Taken : 
+2020-02-26 14:07:00 DEBUG App:32 - Enter your type:
+1 Simple Interest
+2 Compound Interest
+2020-02-26 14:07:01 DEBUG App:37 - SIMPLE INTEREST : 0.0INR
